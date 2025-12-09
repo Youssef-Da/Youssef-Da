@@ -1,12 +1,8 @@
 ### Estudiant d'ASIX |
 
-## Sobre mi
+# Tecnologies que conec
 
-Sóc estudiant d'ASIX amb ganes d'aprendre i crear projectes cada vegada més professionals. M'encanta el món dels sistemes informàtics. També he desenvolupat una aplicació Android com a treball de recerca utilitzant **Kotlin**.
-
-## Tecnologies que conec
-
-### **Llenguatges & eines**
+# **Llenguatges & eines**
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50"/>
@@ -18,13 +14,13 @@ Sóc estudiant d'ASIX amb ganes d'aprendre i crear projectes cada vegada més pr
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50"/>
 </p>
 
-## Projectes destacats
+# Projectes destacats
 
 * **Aplicació Android en Kotlin** — desenvolupada com a treball de recerca.
 * **Projectes web** amb HTML i CSS.
 * **Scripts útils** en Python.
 
-## 🌟 Estadístiques de GitHub
+# Estadístiques de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EL_TEU_USER&show_icons=true&theme=tokyonight" />
