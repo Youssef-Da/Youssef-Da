@@ -1,10 +1,37 @@
-## Hi there 👋
+### Estudiant d'ASIX |
 
-<h3 align="center">A passionate frontend developer</h3>
+## Sobre mi
 
-<h3 align="left">Connect with me:</h3>
+Sóc estudiant d'ASIX amb ganes d'aprendre i crear projectes cada vegada més professionals. M'encanta el món dels sistemes informàtics. També he desenvolupat una aplicació Android com a treball de recerca utilitzant **Kotlin**.
+
+## Tecnologies que conec
+
+### **Llenguatges & eines**
+
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50"/>
 </p>
+
+## Projectes destacats
+
+* **Aplicació Android en Kotlin** — desenvolupada com a treball de recerca.
+* **Projectes web** amb HTML i CSS.
+* **Scripts útils** en Python.
+
+## 🌟 Estadístiques de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EL_TEU_USER&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EL_TEU_USER&layout=compact&theme=tokyonight" />
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
