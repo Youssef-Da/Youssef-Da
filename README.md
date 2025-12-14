@@ -49,9 +49,9 @@
 # Estadístiques de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EL_TEU_USER&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Da&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EL_TEU_USER&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Da&layout=compact&theme=tokyonight" />
 </p>
 
 
