@@ -51,7 +51,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Da&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Da&layout=compact&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=Youssef-Da&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </p>
 
 
